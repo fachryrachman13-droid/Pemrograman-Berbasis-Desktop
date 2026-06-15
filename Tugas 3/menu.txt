@@ -1,0 +1,7 @@
+Makanan|Nasi Goreng Spesial|25000.0|Nasi
+Makanan|Ayam Bakar Taliwang|35000.0|Ayam
+Makanan|Mie Goreng Seafood|28000.0|Mie
+Minuman|Es Teh Manis|6000.0|Teh
+Minuman|Jus Alpukat|15000.0|Jus
+Diskon|Paket Hemat Siang|50000.0|20.0
+Diskon|Jus Mangga|13000.0|10.0
